@@ -10,8 +10,8 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <div className="my-40 flex items-center justify-center">
-          <h1 className="text-8xl bg-gradient-to-r from-cyan-300 to-sky-500 bg-clip-text text-transparent font-semibold animate-shine">
+        <div className="my-40 flex justify-center">
+          <h1 className="text-8xl bg-gradient-to-r from-cyan-300 to-sky-500 bg-clip-text text-transparent font-semibold animate-shine break-words text-center">
             Prakhar Goel
           </h1>
         </div>
