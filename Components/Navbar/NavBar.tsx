@@ -3,8 +3,6 @@ import { createBreakpoint } from 'react-use';
 
 const useBreakpoint = createBreakpoint();
 
-import React from 'react';
-
 export const NavBar = () => {
   return (
     <nav class="bg-gray-900 border-gray-200 px-2 sm:px-4 py-2.5 rounded">
