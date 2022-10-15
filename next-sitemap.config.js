@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'prakhargoel.vercel.app',
+  siteUrl: 'https://prakhargoel.vercel.app',
   generateRobotsTxt: true,
   changefreq: 'daily',
   priority: 1,
