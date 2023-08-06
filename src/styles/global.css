@@ -3,6 +3,7 @@
   https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
+ 
 
 :root {
   --accent: #2337ff;
@@ -33,12 +34,11 @@ body {
   margin: 0;
   padding: 0;
   text-align: left;
-  background-size: 100% 600px;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  color: rgb(var(--gray-dark));
-  font-size: 20px;
-  line-height: 1.7;
+  color: white;
+  background-image: url("/background.svg");
+  background-size: 120rem;
 }
 main {
   width: 720px;
